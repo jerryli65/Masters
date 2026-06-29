@@ -12,5 +12,8 @@ Any problem worth solving, whether it is in software engineering or another aspe
 
  
 TODO: What specifically about UT is desirable? Any specific work experiences that relate to UT? What about an experience that relates to a class?
+
 Can I relate each trait specifically to a part about UT?
-I kind of want to use "sitting in a meeting and juuust falling short over and over" as a hook
+
+I kind of want to use "sitting in a meeting and juuust falling short over and over" as a hook.
+Check the GPT history for analogies 

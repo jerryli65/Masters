@@ -8,4 +8,4 @@ Snigdha's comments:
 
 To add:
 
-* I mean, I have to mention Pipeline and SDD, right?
+* I mean, I have to mention Pipeline and SDD, right? I think the way to do this is to indicate that I am ENTHUSIASTICALLY the focal for this, as an example of "keeping up with the times"
